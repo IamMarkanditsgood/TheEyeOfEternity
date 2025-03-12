@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b8d492192c3534eb9bf68b6ee7325d, type: 3}
+  m_Name: UIData
+  m_EditorClassIdentifier: 
+  m_UIPrefabs:
+  - {fileID: 1883789148548006, guid: 473bf4c4adde20942aeca4a49d6f7dd9, type: 3}
+  - {fileID: 5348992039925900546, guid: 5e9aeba2a63b50d46a0912ed6bb98e4d, type: 3}
+  - {fileID: 5348992039925900546, guid: 5f82d1681ac9fe747adaa4e7c00371b6, type: 3}
+  - {fileID: 1883789148548006, guid: 0fe4d76bbe3b1084680bfd4f33d11734, type: 3}
+  - {fileID: 2323182728059736723, guid: fca1a60c6885bc0478207c09f41f6bfb, type: 3}
+  - {fileID: 4010701571690034354, guid: db29072f6be4989429786638d000df69, type: 3}
+  - {fileID: 2323182728059736723, guid: 8ad25a4d3a747354790d0cdffa57f53e, type: 3}
+  - {fileID: 7503233026476659264, guid: d316f439ffe86854d82e79030a72160a, type: 3}
+  - {fileID: 1883789148548006, guid: 440ddc6a39593f94fa53b5103bc38eae, type: 3}
+  m_UIElementsPrefabs:
+  - {fileID: 2050340724804495745, guid: a916b07c50fc9874182cd49be72a813d, type: 3}
+  - {fileID: 2050340724804495745, guid: ab6c8a69cfdf8014089f8888239a73e9, type: 3}
+  m_UIGraphicContents: {fileID: 11400000, guid: 7e4a8666d1515104896186ffefa66bac, type: 2}
+  m_UITextContentsContents: {fileID: 11400000, guid: 7c02f9329ddd46d46a940d52e7991ee7, type: 2}
+  m_AnimInCurve_1:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_AnimInCurve_2:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.89449394
+      outSlope: -0.89449394
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_UseOverrideTab: 0
+  m_OverrideTabNum: 0

@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d62237442ade424e907019e892255ef, type: 3}
+  m_Name: MainContents
+  m_EditorClassIdentifier: 
+  m_AvatarPartList:
+  - {fileID: 11400000, guid: 83aac8cf3b508ad439cad8ef1a54928e, type: 2}
+  - {fileID: 11400000, guid: 1299ba359ee705445acc078bf8aac92c, type: 2}
+  - {fileID: 11400000, guid: 30d32585a819ac64a8c9ee46be1ba614, type: 2}
+  - {fileID: 11400000, guid: 54a89a750305e4b45b6a385be012290f, type: 2}
+  - {fileID: 11400000, guid: 6fff3cec2d1f6d04caa33289bb26203f, type: 2}
+  - {fileID: 11400000, guid: 42b69011261691e42a8e81f05be5794a, type: 2}
+  - {fileID: 11400000, guid: 6ece132c4d71bc542a92b9d9a785d8f4, type: 2}
+  - {fileID: 11400000, guid: 94640086d7f182b489543e4e14e0560b, type: 2}
+  - {fileID: 11400000, guid: ca929b3403479cb40ae267db34b4e044, type: 2}
+  - {fileID: 11400000, guid: ff49f102f13882c4e87a11f6fca5d8c0, type: 2}
+  m_Powers:
+  - {fileID: 11400000, guid: 0e713c862536f3b4ea4d025bcbe18dc9, type: 2}
+  - {fileID: 11400000, guid: 5f3747424039cdc4c8e2284f1f07149d, type: 2}
+  - {fileID: 11400000, guid: 6cb3e5ec3170f7540ab32b07337ef6d3, type: 2}
+  m_DailyRewards:
+  - {fileID: 11400000, guid: 66694a8df9df7494d851896b0eb1e63b, type: 2}
+  - {fileID: 11400000, guid: 157c12d6604e2014db7fba0d623d89fc, type: 2}
+  - {fileID: 11400000, guid: 09ab0f36ec305d045bb6b07540059a19, type: 2}
+  - {fileID: 11400000, guid: adecf5ebc15441d43b416ae8a3753b17, type: 2}
+  - {fileID: 11400000, guid: 116eeb7b736386f41b45f0c63daf3e80, type: 2}
+  - {fileID: 11400000, guid: ae68760b77fa3424e9a24c0070c3ef0d, type: 2}
+  - {fileID: 11400000, guid: 122d7bb34cac5ee4182b9690a06d2cf8, type: 2}
+  - {fileID: 11400000, guid: 383fe2eca338ff9459493b033667d21d, type: 2}
+  - {fileID: 11400000, guid: c0cfe38707bae75489c8a9fe6c7494a4, type: 2}
+  - {fileID: 11400000, guid: cc624a3844ecec04f9d6a71fc2285b88, type: 2}
+  m_LevelPacks:
+  - {fileID: 11400000, guid: 2b82050cc52e7a544a52ed8dc2b0b94f, type: 2}
+  - {fileID: 11400000, guid: 0233155b883408e4ba2c73bdb6d4be56, type: 2}
+  - {fileID: 11400000, guid: ee1a96bfe62bad545b22967893347eff, type: 2}
+  - {fileID: 11400000, guid: 62e302e0ab179d4489be5c2aed51b31b, type: 2}
+  m_PlayerAvatars:
+  - {fileID: 21300000, guid: 09a17e77c8d408a41a3fdb6f61cdf728, type: 3}
+  - {fileID: 21300000, guid: ea76b4b39bc07604aa3ed457837975b2, type: 3}
+  - {fileID: 21300000, guid: 96524c95078bb7143ac02f60802239b1, type: 3}
+  m_Achievements:
+  - {fileID: 11400000, guid: 72f068578d4f6934a8a05746996ac0b4, type: 2}
+  - {fileID: 11400000, guid: bb9e8a68739ba064982ae39b85f99464, type: 2}
+  - {fileID: 11400000, guid: e6f1cd1c08c3e29409b120952098caf4, type: 2}
+  - {fileID: 11400000, guid: 5f038dbfbd50bc8459c15ed37de0370d, type: 2}
+  - {fileID: 11400000, guid: c176d000416324846a5d5a1adf112011, type: 2}
+  - {fileID: 11400000, guid: 1a07aa4ac76d9d047a13c408f99dbc96, type: 2}
+  - {fileID: 11400000, guid: 94d1b778461085542b8135392cdf3a64, type: 2}
+  - {fileID: 11400000, guid: de3d35188d2fef943a8d272c5051f1f6, type: 2}
+  - {fileID: 11400000, guid: a9b6f395832623e4cadf66e1bb9c71df, type: 2}
+  - {fileID: 11400000, guid: 71d2474dd6c727f4e819bd6756fa71e9, type: 2}
+  m_MenuList: []
+  Prefab_Pickup_Resource: []
+  m_ChatMessages: []
+  m_ChatEmojis: []
+  m_BasePlayerPrefab: {fileID: 3579126248560504843, guid: cdb5e674cc2c6ab4b921767cbc976686, type: 3}
+  m_TeamColors:
+  - {r: 0.95218277, g: 0.740566, b: 1, a: 1}
+  - {r: 0.21994519, g: 1, b: 0, a: 1}
+  m_CategoryTitles:
+  - Color
+  - Animal
+  - Food
+  - Things
+  - Fruit
+  - City
+  - Celebrities
+  - Flower
+  - Country
+  m_TableSizeIcons:
+  - {fileID: 21300000, guid: 6b532369b604980449a61f470270d628, type: 3}
+  - {fileID: 21300000, guid: f314ee6f2c71a314ead7341bc67e4382, type: 3}
+  - {fileID: 21300000, guid: 654e99f018200cc4b8ef501a2b035c32, type: 3}
+  - {fileID: 21300000, guid: 7e485e0e93200eb47bb415437279c912, type: 3}
+  m_WheelRewards:
+  - {fileID: 11400000, guid: 8984636487d5ac241933b5d69e01ed36, type: 2}
+  - {fileID: 11400000, guid: 30c9aa5601b81864591075d3e854227f, type: 2}
+  - {fileID: 11400000, guid: 6008cc3f1b7f8fe4b9637c06140a7700, type: 2}
+  - {fileID: 11400000, guid: 45811089a8c6b6143b42ceab3844e5a7, type: 2}
+  - {fileID: 11400000, guid: 9188100eac0b9d449a30735cbc612b71, type: 2}
+  - {fileID: 11400000, guid: d676d79522e5af14fb6487f172e4d0d7, type: 2}
+  m_IcePrefab1: {fileID: 8770243765965988176, guid: bab322980b910614ebe171e7f7129a79, type: 3}
+  m_IceBreakPrefab1: {fileID: 9122117104955927257, guid: efdff5f23e362054f93d9f12b74e9c9d, type: 3}
+  m_RandomPlayerNames:
+  - "\u062D\u0633\u06CC\u0646"
+  - "\u0646\u0633\u06CC\u0645"
+  - "\u0645\u062D\u0645\u062F"
+  - "\u0645\u0647\u062F\u06CC"
+  - "\u0631\u0636\u0627"
+  - "\u0647\u0627\u062F\u06CC"
+  - "\u0645\u0628\u06CC\u0646\u0627"
+  - "\u0631\u0648\u0646\u0627\u0644\u062F\u0648 \u0628\u06CC\u0646\u0638\u06CC\u0631"
+  - "\u0645\u0633\u06CC"
+  - "\u0639\u0634\u0642 \u067E\u0631\u0633\u067E\u0648\u0644\u06CC\u0633"
+  - "\u0645\u0646\u0635\u0648\u0631"
+  - "\u0622\u0631\u062A\u0627"
+  - "\u0645\u0631\u0636\u06CC"
+  - "\u0628\u0647\u0632\u0627\u062F"
+  - "\u0628\u0647\u0631\u0648\u0632"
+  - "\u0635\u0627\u062F\u0642"
+  - "\u0641\u0631\u0647\u0627\u062F"
+  - "\u0641\u0631\u0634\u0627\u062F"
+  - "\u0641\u0631\u06CC\u0628\u0627"
+  - "\u0641\u0631\u062A\u0627\u0634"
+  - "\u0634\u0627\u062F\u0645\u0647\u0631"
+  - "\u0639\u0644\u06CC"
+  - "\u0634\u06CC\u0631\u06CC\u0646"
+  - "\u0632\u06CC\u0646\u0628"
+  - "\u0645\u0627\u0632\u06CC\u0627\u0631"
+  - "\u0641\u0631\u06CC\u0628\u0631\u0632"
+  - "\u0641\u0627\u0637\u06CC"
+  - "\u0627\u0644\u06CC"
+  - "\u0627\u0644\u06CC\u0633\u0627"
+  - "\u0627\u0644\u06CC\u0646\u0627"
+  - "\u0627\u0646\u06CC\u0633\u0627"
+  - "\u0646\u0633\u062A\u0631\u0646"
+  - "\u0639\u0631\u0634\u06CC\u0627"
+  - "\u0645\u062D\u0633\u0646"
+  m_UpgradeTitles: []
+  m_UpgradeMax: []
+  m_UpgradePriceStart: 
+  m_UpgradePriceAdd: 
+  m_CamLerp:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
