@@ -70,8 +70,8 @@ namespace JSG.WordPalace.UI
         }
         public void BtnStartGame()
         {
-            UISystem.RemoveUI("MainMenuUI");
-            UISystem.ShowUI("LevelsUI");
+            UISystem.RemoveUI("MainMenu");
+            UISystem.ShowUI("CategoryUI");
         }
 
     }

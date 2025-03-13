@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416ee64e46f31c94a90ac2409c086de6, type: 3}
+  m_Name: GodRa
+  m_EditorClassIdentifier: 
+  types: 0
+  name: Ra
+  godInfo: {fileID: 21300000, guid: 2dcafa08ca7d0c54e970a55cc71660af, type: 3}
+  godBG: {fileID: 21300000, guid: dd7357898a1aabf4fbfb4c40a8a116df, type: 3}
+  godAvatar: {fileID: 21300000, guid: c9a19f82728340f4daf10be62b3bd271, type: 3}
+  godQuizzes:
+  - question: What does the name "Ra" mean in Egyptian mythology?
+    _answers:
+    - Moon
+    - Sun
+    - Ocean
+    - Thunder
+    correctReply: 1
+  - question: What was the name of the boat Ra traveled in during the day?
+    _answers:
+    - Mesketet
+    - Amunet
+    - Mandjet
+    - Sekhmet
+    correctReply: 2
+  - question: "Who was Ra\u2019s greatest enemy in the underworld?"
+    _answers:
+    - Set
+    - Apophis
+    - Hathor
+    - Nephthys
+    correctReply: 1
+  - question: Which animal was commonly associated with Ra?
+    _answers:
+    - Jackal
+    - Falcon
+    - Cat
+    - Crocodile
+    correctReply: 1
+  - question: "Which city was the main center of Ra\u2019s worship? "
+    _answers:
+    - Memphis
+    - Abydos
+    - Thebes
+    - Heliopolis
+    correctReply: 3
+  - question: Which god assisted Ra in his battle against Apophis?
+    _answers:
+    - Anubis
+    - Set
+    - Osiris
+    - "Ma\u2019at"
+    correctReply: 1
+  - question: "What was the name of Ra\u2019s night boat?"
+    _answers:
+    - Bastet
+    - Sekhmet
+    - Mesketet
+    - Mandjet
+    correctReply: 2
+  - question: Which goddess tricked Ra into revealing his secret name?
+    _answers:
+    - Isis
+    - Hathor
+    - "Ma\u2019at"
+    - Tefnut
+    correctReply: 0
+  - question: What title did pharaohs often adopt to emphasize their connection to
+      Ra?
+    _answers:
+    - Eye of Ra
+    - 'Son of Ra '
+    - Heir of Ra
+    - 'Protector of Ra '
+    correctReply: 1
+  - question: 'Which form of Ra symbolized the morning sun? '
+    _answers:
+    - An old man
+    - A lion
+    - ' A scarab beetle '
+    - A bull
+    correctReply: 2

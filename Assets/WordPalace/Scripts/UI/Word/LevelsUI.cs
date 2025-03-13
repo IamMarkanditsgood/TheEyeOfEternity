@@ -34,6 +34,7 @@ namespace JSG.WordPalace.UI
                 b.m_LevelNum = i;
             }
 
+
         }
 
         // Update is called once per frame

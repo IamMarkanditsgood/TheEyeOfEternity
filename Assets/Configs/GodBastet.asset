@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416ee64e46f31c94a90ac2409c086de6, type: 3}
+  m_Name: GodBastet
+  m_EditorClassIdentifier: 
+  types: 9
+  name: Bastet
+  godInfo: {fileID: 21300000, guid: b8e6e5329339f3447bee12a61aaf4a3e, type: 3}
+  godBG: {fileID: 21300000, guid: 5d796e98ee78bad43a36450892af0f64, type: 3}
+  godAvatar: {fileID: 21300000, guid: c8899ab0fa26a5b48869605cd5227cbd, type: 3}
+  godQuizzes:
+  - question: Who was Bastet the goddess of?
+    _answers:
+    - War and hunting
+    - Protection, home, and joy
+    - The sun and the moon
+    - The underworld
+    correctReply: 1
+  - question: What animal was sacred to Bastet?
+    _answers:
+    - A falcon
+    - A crocodile
+    - A cat
+    - A jackal
+    correctReply: 2
+  - question: What did harming a cat in ancient Egypt result in?
+    _answers:
+    - A fine
+    - A bad omen
+    - 'A punishment by death '
+    - A curse from Bastet
+    correctReply: 2
+  - question: 'Which musical instrument is associated with Bastet? '
+    _answers:
+    - A drum
+    - A sistrum
+    - A lyre
+    - A flute
+    correctReply: 1
+  - question: "What was Bastet\u2019s role in the household?"
+    _answers:
+    - 'She was the protector of families and children '
+    - 'She ruled over the afterlife '
+    - 'She was responsible for warfare '
+    - "She controlled the Nile\u2019s floods "
+    correctReply: 0
+  - question: "Where was Bastet\u2019s most famous temple located?"
+    _answers:
+    - Thebes
+    - Bubastis
+    - Abydos
+    - Giza
+    correctReply: 1
+  - question: How was Bastet originally depicted?
+    _answers:
+    - As a woman with a lioness head
+    - As a full-grown lion
+    - As a falcon
+    - s a serpent
+    correctReply: 0
+  - question: "How did Bastet\u2019s image change over time?"
+    _answers:
+    - She became associated with the sun
+    - She transformed into a cat-headed goddess
+    - She was merged with Isis
+    - She was no longer worshiped
+    correctReply: 1
+  - question: Why were cats considered sacred in Egypt?
+    _answers:
+    - 'They were believed to be reincarnated pharaohs '
+    - They protected households from vermin and were linked to Bastet
+    - They could predict the future
+    - They were used in religious sacrifices
+    correctReply: 1
+  - question: What offerings were commonly given to Bastet?
+    _answers:
+    - Gold and silver
+    - Wine, perfumes, and cat statues
+    - Weapons and shields
+    - Sacrifices of cattle
+    correctReply: 1

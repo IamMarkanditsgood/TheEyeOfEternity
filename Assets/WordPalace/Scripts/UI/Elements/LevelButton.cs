@@ -66,10 +66,10 @@ namespace JSG.WordPalace.UI
             }
             else
             {
-                Destroy(gameObject);
-                // GetComponent<Button>().interactable = false;
-                // m_LockImage.gameObject.SetActive(true);
-                // m_PassedImage.gameObject.SetActive(false);
+                 //Destroy(gameObject);
+                 GetComponent<Button>().interactable = false;
+                 m_LockImage.gameObject.SetActive(true);
+                 m_PassedImage.gameObject.SetActive(false);
 
             }
 

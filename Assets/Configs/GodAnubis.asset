@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416ee64e46f31c94a90ac2409c086de6, type: 3}
+  m_Name: GodAnubis
+  m_EditorClassIdentifier: 
+  types: 4
+  name: Anubis
+  godInfo: {fileID: 21300000, guid: 65d7d3f165f7a604b8618139e060e552, type: 3}
+  godBG: {fileID: 21300000, guid: 25ed81ec73268b04584f2f5b148d81db, type: 3}
+  godAvatar: {fileID: 21300000, guid: 01e58d56e13549045bc04245ba08f3ff, type: 3}
+  godQuizzes:
+  - question: Who was Anubis the god of?
+    _answers:
+    - The Sun
+    - War
+    - The Afterlife and Mummification
+    - Creation
+    correctReply: 2
+  - question: What animal is Anubis commonly associated with?
+    _answers:
+    - lion
+    - crocodile
+    - falcon
+    - jackal
+    correctReply: 3
+  - question: What ceremony did Anubis oversee in the afterlife?
+    _answers:
+    - The Opening of the Mouth
+    - The Weighing of the Heart
+    - The Festival of Osiris
+    - The Sacrifice of the Sun
+    correctReply: 1
+  - question: "What happened if a person's heart was heavier than the feather of
+      Ma\u2019at?"
+    _answers:
+    - They were reborn
+    - They were sent back to Earth
+    - They were devoured by Ammit
+    - They became immortal
+    correctReply: 2
+  - question: Who did Anubis help embalm and resurrect?
+    _answers:
+    - Set
+    - Horus
+    - Osiris
+    - Ra
+    correctReply: 2
+  - question: "What color was Anubis\u2019s skin usually depicted as?"
+    _answers:
+    - Gold
+    - Green
+    - Blue
+    - Black
+    correctReply: 3
+  - question: "What was Anubis\u2019s role in mummification? "
+    _answers:
+    - He performed the rituals himself
+    - He taught Egyptians how to embalm
+    - He judged who could be mummified
+    - He provided the embalming oils
+    correctReply: 1
+  - question: "Where was Anubis\u2019s main worship center?"
+    _answers:
+    - Thebes
+    - Heliopolis
+    - Cynopolis
+    - Karnak
+    correctReply: 2
+  - question: Why was Anubis associated with jackals?
+    _answers:
+    - They hunted near the Nile
+    - They lived in tombs
+    - They were considered sacred
+    - They scavenged near cemeteries
+    correctReply: 3
+  - question: What did Anubis do to protect the dead?
+    _answers:
+    - He cast spells on them
+    - He guarded their tombs
+    - He fought Set
+    - He placed amulets on their bodies
+    correctReply: 1

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 416ee64e46f31c94a90ac2409c086de6, type: 3}
+  m_Name: Set
+  m_EditorClassIdentifier: 
+  types: 5
+  name: Set
+  godInfo: {fileID: 21300000, guid: babe2dedfa23ad64398d6952ab631fec, type: 3}
+  godBG: {fileID: 21300000, guid: 4447a4c453fb64746894a2e4f7e84b7f, type: 3}
+  godAvatar: {fileID: 21300000, guid: 7244fad559416ad4591fff43a9ea9984, type: 3}
+  godQuizzes:
+  - question: Who was Set the god of?
+    _answers:
+    - The Underworld
+    - Chaos, storms, and the desert
+    - Wisdom and knowledge
+    - The Sun
+    correctReply: 1
+  - question: "Who was Set\u2019s brother, whom he betrayed?"
+    _answers:
+    - Ra
+    - Anubis
+    - Osiris
+    - Horus
+    correctReply: 2
+  - question: How did Set kill Osiris?
+    _answers:
+    - He threw him into the desert
+    - He drowned him in the Nile
+    - 'He tricked him into a chest and sealed it '
+    - He cursed him
+    correctReply: 2
+  - question: "What happened after Isis found Osiris\u2019s body?"
+    _answers:
+    - Set cut it into 14 pieces
+    - Osiris returned to rule Egypt
+    - Anubis revived him
+    - He was hidden in the pyramids
+    correctReply: 0
+  - question: Who challenged Set for the throne of Egypt?
+    _answers:
+    - Ra
+    - Horus
+    - Anubis
+    - Thoth
+    correctReply: 1
+  - question: What did Set do to Horus during their battle?
+    _answers:
+    - Cut off his arm
+    - Banished him to the underworld
+    - Gouged out his eye
+    - Stole his divine powers
+    correctReply: 2
+  - question: What role did Set play in relation to Ra?
+    _answers:
+    - He tried to overthrow him
+    - "He helped defend Ra\u2019s solar boat"
+    - He ignored him completely
+    - He stole his light
+    correctReply: 1
+  - question: Why was Set associated with foreign lands?
+    _answers:
+    - He was their protector
+    - He was exiled there
+    - Egyptians saw him as a ruler of desert regions
+    - He was worshiped only outside Egypt
+    correctReply: 0
+  - question: What animal is associated with Set?
+    _answers:
+    - A jackal
+    - A falcon
+    - A unique "Set animal"
+    - A lion
+    correctReply: 2
+  - question: How was Set viewed later in Egyptian history?
+    _answers:
+    - He was honored as a god of kings
+    - He was seen as an evil deity
+    - He replaced Osiris as king of the underworld
+    - 'He became the god of wisdom '
+    correctReply: 1

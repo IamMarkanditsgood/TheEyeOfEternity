@@ -80,7 +80,7 @@ namespace JSG.WordPalace.UI
             {
                 boxes[i].m_TextLetter.gameObject.SetActive(true);
                 boxes[i].m_TextLetter.text = characters[i].ToString();
-                boxes[i].GetComponent<Image>().color = new Color(0, 0, 0, .7f);
+               // boxes[i].GetComponent<Image>().color = new Color(0, 0, 0, .7f);
             }
         }
 
@@ -92,7 +92,7 @@ namespace JSG.WordPalace.UI
             UILetterBox[] boxes = m_WordBoxes[num].GetComponentsInChildren<UILetterBox>();
             boxes[0].m_TextLetter.gameObject.SetActive(true);
             boxes[0].m_TextLetter.text = characters[0].ToString();
-            boxes[0].GetComponent<Image>().color = new Color(0, 0, 0, .7f);
+            //boxes[0].GetComponent<Image>().color = new Color(0, 0, 0, .7f);
         }
 
         // Update is called once per frame
