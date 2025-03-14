@@ -818,6 +818,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 631691328}
     m_Modifications:
+    - target: {fileID: 3643003227960656763, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5b83c52f9258bdc45a6ee8c7f0799d5a, type: 3}
     - target: {fileID: 5552438840811977411, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
       propertyPath: m_Name
       value: Coin Panel 2
@@ -1100,6 +1104,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1224140351}
     m_Modifications:
+    - target: {fileID: 3643003227960656763, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5b83c52f9258bdc45a6ee8c7f0799d5a, type: 3}
+    - target: {fileID: 5290976140770214269, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5b83c52f9258bdc45a6ee8c7f0799d5a, type: 3}
     - target: {fileID: 5552438840811977411, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
       propertyPath: m_Name
       value: Coin Panel 2
@@ -1388,6 +1400,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1802115183}
     m_Modifications:
+    - target: {fileID: 3643003227960656763, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5b83c52f9258bdc45a6ee8c7f0799d5a, type: 3}
     - target: {fileID: 5552438840811977411, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
       propertyPath: m_Name
       value: Coin Panel 2
@@ -2096,6 +2112,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 553483456}
     m_Modifications:
+    - target: {fileID: 3643003227960656763, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5b83c52f9258bdc45a6ee8c7f0799d5a, type: 3}
     - target: {fileID: 5552438840811977411, guid: 046a4b972ab3b444dae4d568e018901b, type: 3}
       propertyPath: m_Name
       value: Coin Panel 2
@@ -3720,7 +3740,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.50897217, y: 13.987671}
+  m_AnchoredPosition: {x: -0.5090332, y: 13.987671}
   m_SizeDelta: {x: 1097.816, y: 2231.1467}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1044138379
@@ -4060,10 +4080,10 @@ RectTransform:
   - {fileID: 37561388}
   m_Father: {fileID: 1802115183}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -454.90637}
-  m_SizeDelta: {x: 1170, y: 1622.1875}
+  m_AnchorMin: {x: 0, y: -0.000000048211025}
+  m_AnchorMax: {x: 1, y: 0.6406743}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1117145984
 MonoBehaviour:
@@ -4078,8 +4098,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Content: {fileID: 1707080784}
-  m_Horizontal: 1
-  m_Vertical: 0
+  m_Horizontal: 0
+  m_Vertical: 1
   m_MovementType: 1
   m_Elasticity: 0.1
   m_Inertia: 1
@@ -5289,7 +5309,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4fb48530c02c21941b997596afac5d6d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 208a5a02d34c5424a80e519d9fa67882, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
