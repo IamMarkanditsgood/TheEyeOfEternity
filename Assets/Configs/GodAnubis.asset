@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 4
   name: Anubis
-  godInfo: {fileID: 21300000, guid: 65d7d3f165f7a604b8618139e060e552, type: 3}
+  godInfo: {fileID: 21300000, guid: 1d7c73acea76da6489467dfad7dc8482, type: 3}
   godBG: {fileID: 21300000, guid: 25ed81ec73268b04584f2f5b148d81db, type: 3}
   godAvatar: {fileID: 21300000, guid: 01e58d56e13549045bc04245ba08f3ff, type: 3}
   godQuizzes:

@@ -15,12 +15,10 @@ MonoBehaviour:
   m_Icon: {fileID: 21300000, guid: ef364b65426eca240a7da07b10b25487, type: 3}
   m_TableSize: 4
   m_Words:
-  - green
-  - yellow
-  - black
-  m_Letters: lowglblrecaeykne
-  m_Theme: 0
+  - Delta
+  - Desert
+  - Nubia
+  m_Letters: deltadesertnubiax
+  m_Theme: 6
   m_StarCount: 0
   m_LevelCoinAmount: 0
-  m_CoinReward: {fileID: 0}
-  m_GemReward: {fileID: 0}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 7
   name: "Ma\u2019at"
-  godInfo: {fileID: 21300000, guid: ab6a861dc3e7aa24bab255eed8991e28, type: 3}
+  godInfo: {fileID: 21300000, guid: dbcc80afa4cec714aa8f10df137a5d09, type: 3}
   godBG: {fileID: 21300000, guid: f1073f15b0d445f4e857b0e436f9aed9, type: 3}
   godAvatar: {fileID: 21300000, guid: 6054bc286c4bfc947a4de31dec9493ce, type: 3}
   godQuizzes:

@@ -15,12 +15,10 @@ MonoBehaviour:
   m_Icon: {fileID: 21300000, guid: ef364b65426eca240a7da07b10b25487, type: 3}
   m_TableSize: 4
   m_Words:
-  - dolphin
-  - whale
-  - crab
-  m_Letters: phellicaonrhdbaw
-  m_Theme: 1
+  - Imhotep
+  - Khnum
+  - Osir
+  m_Letters: khnumimhoteposirx
+  m_Theme: 6
   m_StarCount: 0
   m_LevelCoinAmount: 0
-  m_CoinReward: {fileID: 0}
-  m_GemReward: {fileID: 0}

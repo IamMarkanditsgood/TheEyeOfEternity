@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 8
   name: Hathor
-  godInfo: {fileID: 21300000, guid: 5a07d70fcb08a6c44837f388c7a109db, type: 3}
+  godInfo: {fileID: 21300000, guid: 9018ae3c1c9d6fc469c3e168c28618e6, type: 3}
   godBG: {fileID: 21300000, guid: e0cfb38ff04c3d442ba2d91f14442779, type: 3}
   godAvatar: {fileID: 21300000, guid: 95c247d353616b441b96d017506fc782, type: 3}
   godQuizzes:

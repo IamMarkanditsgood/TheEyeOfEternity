@@ -15,11 +15,11 @@ MonoBehaviour:
   m_Icon: {fileID: 21300000, guid: ef364b65426eca240a7da07b10b25487, type: 3}
   m_TableSize: 4
   m_Words:
-  - dog
-  - dock
-  - crab
-  - goat
-  m_Letters: qgodusoubarcltpk
-  m_Theme: 1
+  - scarab
+  - Cairo
+  - Gold
+  - God
+  m_Letters: scarabcairogoldgodx
+  m_Theme: 7
   m_StarCount: 0
   m_LevelCoinAmount: 0

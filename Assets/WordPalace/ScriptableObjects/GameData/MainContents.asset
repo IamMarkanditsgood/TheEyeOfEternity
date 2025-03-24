@@ -18,20 +18,19 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ee1a96bfe62bad545b22967893347eff, type: 2}
   - {fileID: 11400000, guid: 62e302e0ab179d4489be5c2aed51b31b, type: 2}
   m_CategoryTitles:
-  - Color
-  - Animal
-  - Food
-  - Things
-  - Fruit
-  - City
-  - Celebrities
-  - Flower
-  - Country
+  - Pharaohs
+  - Gods
+  - Temples
+  - Nile
+  - Pyramids
+  - Hieroglyphs
+  - Artifacts
+  - Dynasties
   m_TableSizeIcons:
-  - {fileID: 21300000, guid: 045ca8331b923684b84e2525c2c9780f, type: 3}
-  - {fileID: 21300000, guid: 045ca8331b923684b84e2525c2c9780f, type: 3}
-  - {fileID: 21300000, guid: 045ca8331b923684b84e2525c2c9780f, type: 3}
-  - {fileID: 21300000, guid: 045ca8331b923684b84e2525c2c9780f, type: 3}
+  - {fileID: 21300000, guid: 06f533eaea2b22a48b7ea626da608df0, type: 3}
+  - {fileID: 21300000, guid: 06f533eaea2b22a48b7ea626da608df0, type: 3}
+  - {fileID: 21300000, guid: 06f533eaea2b22a48b7ea626da608df0, type: 3}
+  - {fileID: 21300000, guid: 06f533eaea2b22a48b7ea626da608df0, type: 3}
   m_CamLerp:
     serializedVersion: 2
     m_Curve:

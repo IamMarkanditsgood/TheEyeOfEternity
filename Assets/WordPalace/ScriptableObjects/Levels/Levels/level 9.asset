@@ -15,10 +15,8 @@ MonoBehaviour:
   m_Icon: {fileID: 21300000, guid: ef364b65426eca240a7da07b10b25487, type: 3}
   m_TableSize: 2
   m_Words:
-  - cuba
-  m_Letters: cuab
-  m_Theme: 8
+  - bee
+  m_Letters: beex
+  m_Theme: 1
   m_StarCount: 0
   m_LevelCoinAmount: 0
-  m_CoinReward: {fileID: 0}
-  m_GemReward: {fileID: 0}

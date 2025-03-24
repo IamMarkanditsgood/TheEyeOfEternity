@@ -26,14 +26,13 @@ namespace JSG.WordPalace.ScriptableObjects
 
     public enum m_LevelTheme
     {
-        Color,
-        Animal,
-        Food,
-        Objects,
-        Fruit,
-        City,
-        Celebrity,
-        Flower,
-        Country
+        Pharaohs,
+        Gods,
+        Temples,
+        Nile,
+        Pyramids,
+        Hieroglyphs,
+        Artifacts,
+        Dynasties,
     }
 }

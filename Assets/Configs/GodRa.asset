@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 0
   name: Ra
-  godInfo: {fileID: 21300000, guid: 2dcafa08ca7d0c54e970a55cc71660af, type: 3}
+  godInfo: {fileID: 21300000, guid: d2b85c95e24f8e5438c1ef77bb2904b6, type: 3}
   godBG: {fileID: 21300000, guid: dd7357898a1aabf4fbfb4c40a8a116df, type: 3}
   godAvatar: {fileID: 21300000, guid: c9a19f82728340f4daf10be62b3bd271, type: 3}
   godQuizzes:

@@ -15,11 +15,9 @@ MonoBehaviour:
   m_Icon: {fileID: 21300000, guid: ef364b65426eca240a7da07b10b25487, type: 3}
   m_TableSize: 5
   m_Words:
-  - beyonce
-  - tomcruise
-  m_Letters: qwertrcmotuoyebincvxseeje
+  - Tutankh
+  - Pharaohs
+  m_Letters: tutankhpharaohsx
   m_Theme: 6
   m_StarCount: 0
   m_LevelCoinAmount: 0
-  m_CoinReward: {fileID: 0}
-  m_GemReward: {fileID: 0}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 2
   name: Isis
-  godInfo: {fileID: 21300000, guid: 395d309f0f26dd04c9e7e8e42d052909, type: 3}
+  godInfo: {fileID: 21300000, guid: 8b513307efe37054fbcea385b2ca7ec9, type: 3}
   godBG: {fileID: 21300000, guid: 8699d005928177e40be731efdf7e003e, type: 3}
   godAvatar: {fileID: 21300000, guid: d8fa9fb6e0d3bf74296c806feff99d57, type: 3}
   godQuizzes:

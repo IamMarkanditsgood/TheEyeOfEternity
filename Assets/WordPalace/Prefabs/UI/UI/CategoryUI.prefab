@@ -1668,7 +1668,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 27f01254b43b4664680523a3b17288da, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a57969c338d7dde47b786eb472411520, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1835,7 +1835,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d2c59b6604c0e08458f6df32239b350f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4d1231eb356c6624f8b033dc7bcaa38b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1875,7 +1875,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 1cc29eed4ec58194bb2b8abf19be5e74, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 239a2687766d861479e94a879d373d1e, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -1972,7 +1972,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f32aca72978c10045a0dd2589600d8e0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7f159c4ebef7e434eb7955b3693aa26f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2031,7 +2031,7 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: 9da1c9f47ebab044e8bedd2c391f40c8, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: c18679f13e58b654f8a51948e9a1271d, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -2191,7 +2191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.50980395, g: 0.24705882, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2199,7 +2199,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: e5c8813eb2f52f448a1f8150052779ea, type: 3}
+    m_Font: {fileID: 12800000, guid: fde0a16d9d853174fb89ba8ebc2889a4, type: 3}
     m_FontSize: 45
     m_FontStyle: 1
     m_BestFit: 1

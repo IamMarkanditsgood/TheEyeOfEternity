@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 9
   name: Bastet
-  godInfo: {fileID: 21300000, guid: b8e6e5329339f3447bee12a61aaf4a3e, type: 3}
+  godInfo: {fileID: 21300000, guid: 144e1db8be1f76544b413d4b89284d13, type: 3}
   godBG: {fileID: 21300000, guid: 5d796e98ee78bad43a36450892af0f64, type: 3}
   godAvatar: {fileID: 21300000, guid: c8899ab0fa26a5b48869605cd5227cbd, type: 3}
   godQuizzes:

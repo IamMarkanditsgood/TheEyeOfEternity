@@ -15,12 +15,10 @@ MonoBehaviour:
   m_Icon: {fileID: 21300000, guid: ef364b65426eca240a7da07b10b25487, type: 3}
   m_TableSize: 4
   m_Words:
-  - apple
-  - grape
-  - mango
-  m_Letters: gnamoargcpeeappl
-  m_Theme: 4
+  - mummy
+  - Cairo
+  - Nubia
+  m_Letters: mummycaironubiax
+  m_Theme: 5
   m_StarCount: 0
   m_LevelCoinAmount: 0
-  m_CoinReward: {fileID: 0}
-  m_GemReward: {fileID: 0}

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   types: 1
   name: Osiris
-  godInfo: {fileID: 21300000, guid: 7ec4d6118e68cc144a00447960b130ca, type: 3}
+  godInfo: {fileID: 21300000, guid: c073adf54638c184eb9bc2522f7d0f41, type: 3}
   godBG: {fileID: 21300000, guid: 7c9f543c56911f14a96ed3cf79a609e4, type: 3}
   godAvatar: {fileID: 21300000, guid: cedc61f596a76224287c3e28f3524e87, type: 3}
   godQuizzes:
