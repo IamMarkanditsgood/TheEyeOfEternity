@@ -7,7 +7,6 @@ namespace JSG.WordPalace
 {
     public class CategoryButton : MonoBehaviour
     {
-        [HideInInspector]
         public int m_LevelPackNum;
         public Text m_CategoryName;
         public Image m_LockImage;

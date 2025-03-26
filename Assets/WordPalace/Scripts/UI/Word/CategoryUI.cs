@@ -22,7 +22,6 @@ namespace JSG.WordPalace
         // Start is called before the first frame update
         void Start()
         {
-
             for (int i = 0; i < m_Contents.m_LevelPacks.Length; i++)
             {
                 GameObject btn = Instantiate(m_CategoryBtnPrefab1);
@@ -30,7 +29,6 @@ namespace JSG.WordPalace
                 CategoryButton b = btn.GetComponent<CategoryButton>();
                 b.m_LevelPackNum = i;
             }
-
         }
 
         // Update is called once per frame
